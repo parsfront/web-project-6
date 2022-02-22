@@ -5,6 +5,7 @@
 
 body {
     font-family: yekan;
+    overflow-x: hidden; /* Hide horizontal scrollbar */
 }
 
 /* utility  */
